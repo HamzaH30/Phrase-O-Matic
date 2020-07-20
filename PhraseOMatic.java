@@ -1,8 +1,5 @@
 /**
- * Write a description of class PhraseOMatic here.
- *
- * @author (your name)
- * @version (a version number or a date)
+ * @Hamza (your name)
  */
 public class PhraseOMatic
 {
